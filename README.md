@@ -20,7 +20,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 ---
 
 ```bash
-## 📁 cpp-dsa-practice/
+📁 cpp-dsa-practice/
 ├── README.md
 ├── arrays/
 │   
