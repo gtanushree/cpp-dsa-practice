@@ -1,0 +1,42 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executable files
+*.exe
+*.out
+*.app
+*.run
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Build folders
+/build/
+cmake-build-*/
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Other
+*.DS_Store
+*.swp
+*.tmp
