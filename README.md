@@ -29,7 +29,8 @@ This repository contains a categorized collection of concepts I have learnt and 
 ├── trees/
 │   ├── TreeTraversal.cpp
 │   ├── BFS.cpp
-|   ├── Iterative_Preorder_Traversal.cpp
+│   ├── Iterative_Preorder_Traversal.cpp
+│   ├── Iterative_Inorder_Traversal.cpp
 ├── graphs/
 │   
 ├── sorting/
