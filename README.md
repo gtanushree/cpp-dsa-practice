@@ -10,6 +10,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 | Topic             | Status  | Problems Solved |
 |------------------|----------|-----------------|
 | ✅ Arrays        | 🟢 In Progress       | 10+ |
+| ✅ Arrays        | 🟢 In Progress       | 10+ |
 | ✅ Linked Lists  | 🟢 In Progress       | 7+  |
 | ✅ Trees         | 🟢 In Progress       | 6+  |
 | ✅ Graphs        | 🔵 Coming Soon       | -   |
