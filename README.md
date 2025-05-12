@@ -9,6 +9,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 
 | Topic             | Status  | Problems Solved |
 |------------------|----------|-----------------|
+| ✅ Miscellaneous        | 🟢 In Progress       | 6+ |
 | ✅ Pointers        | 🟢 In Progress       | 6+ |
 | ✅ Arrays        | 🟢 In Progress       | 10+ |
 | ✅ Linked Lists  | 🟢 In Progress       | 7+  |
@@ -23,6 +24,11 @@ This repository contains a categorized collection of concepts I have learnt and 
 ```bash
 📁 cpp-dsa-practice/
 ├── README.md
+│
+├── miscellaneous/
+│   ├── matrix.cpp
+├── pointers/
+│
 ├── arrays/
 │   
 ├── linked_lists/
