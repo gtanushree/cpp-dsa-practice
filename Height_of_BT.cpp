@@ -1,3 +1,6 @@
+// Code for maximum depth in Binary Tree
+// Time: O(n), Space: O(n)
+
 #include <iostream>
 #include <algorithm>
 
@@ -15,7 +18,7 @@ struct TreeNode{
 
 class Solution{
     public:
-    int maxDepth(TreeNode* root){
+    int maxDepth(TreeNode* root){           // Recursive function
         if(root == NULL) return 0;
         int lh = maxDepth(root->left);
         int rh = maxDepth(root->right);
