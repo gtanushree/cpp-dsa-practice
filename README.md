@@ -42,6 +42,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── Iterative_Postorder_Traversal(1).cpp
 │   ├── Height_of_BT.cpp
 │   ├── Balanced_BT.cpp
+│   ├── Diameter_of_BT.cpp
 ├── graphs/
 │   
 ├── sorting/
