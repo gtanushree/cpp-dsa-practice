@@ -13,7 +13,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 | ✅ Pointers        | 🟢 In Progress       | 6+ |
 | ✅ Arrays        | 🟢 In Progress       | 10+ |
 | ✅ Linked Lists  | 🟢 In Progress       | 7+  |
-| ✅ Trees         | 🟢 In Progress       | 6+  |
+| ✅ Trees         | 🟢 In Progress       | 10+  |
 | ✅ Graphs        | 🔵 Coming Soon       | -   |
 | ✅ Sorting & Searching | 🟢 In Progress   | 5+  |
 | ✅ Recursion & Backtracking | 🔵 Coming Soon | - |
@@ -44,6 +44,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── Balanced_BT.cpp
 │   ├── Diameter_of_BT.cpp
 │   ├── Maximum_Path_Sum_BT.cpp
+│   ├── Identical_Trees.cpp
 ├── graphs/
 │   
 ├── sorting/
