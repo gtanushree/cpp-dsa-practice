@@ -38,7 +38,7 @@ class Solution{
 
                 // find position to fill node's value
                 int index = (leftToRight) ? i : (size - i - 1); // key step
-
+                // depending on the flag this step will either insert from the front or from the back.
                 row[index] = node->val;
                 if (node->left){
                     nodesQueue.push(node->left);
