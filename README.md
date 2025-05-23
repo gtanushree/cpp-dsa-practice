@@ -33,6 +33,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   
 ├── linked_lists/
 │   ├── Insertion_LL.cpp
+│   ├── Deletion_LL.cpp
 │   
 ├── trees/
 │   ├── TreeTraversal.cpp
