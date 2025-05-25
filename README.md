@@ -35,6 +35,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── Insertion_LL.cpp
 │   ├── Deletion_LL.cpp
 │   ├── Sorting_LL.cpp
+│   ├── Reverse_LL.cpp
 │   
 ├── trees/
 │   ├── TreeTraversal.cpp
