@@ -36,6 +36,10 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── Deletion_LL.cpp
 │   ├── Sorting_LL.cpp
 │   ├── Reverse_LL.cpp
+│   ├── Reorder_LL.cpp
+│   ├── Tricky_p1.cpp
+│   ├── Swap_pairs_LL.cpp
+│   ├── Tricky_p2.cpp
 │   
 ├── trees/
 │   ├── TreeTraversal.cpp
