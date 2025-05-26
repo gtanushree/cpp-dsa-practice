@@ -1,0 +1,1 @@
+// Code for Deleting Node Without Head Pointer given only a pointer to a node (not head), delete it.
