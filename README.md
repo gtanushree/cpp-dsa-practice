@@ -32,6 +32,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── program2.cpp
 │
 ├── arrays/
+│   ├── Reverse_array.cpp
 │   
 ├── linked_lists/
 │   ├── Insertion_LL.cpp
