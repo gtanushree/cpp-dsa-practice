@@ -28,6 +28,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 ├── miscellaneous/
 │   ├── matrix.cpp
 │   ├── leftRotation.cpp
+│   ├── rightRotation.cpp
 ├── pointers/
 │   ├── swap_two_numbers.cpp
 │   ├── program2.cpp
