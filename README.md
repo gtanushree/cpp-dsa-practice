@@ -29,6 +29,8 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── matrix.cpp
 │   ├── leftRotation.cpp
 │   ├── rightRotation.cpp
+│   ├── Kadane's_Algorithm.cpp
+│
 ├── pointers/
 │   ├── swap_two_numbers.cpp
 │   ├── program2.cpp
