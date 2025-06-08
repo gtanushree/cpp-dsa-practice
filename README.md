@@ -30,6 +30,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── leftRotation.cpp
 │   ├── rightRotation.cpp
 │   ├── Kadane's_Algorithm.cpp
+│   ├── linearSearch.cpp
 │
 ├── pointers/
 │   ├── swap_two_numbers.cpp
