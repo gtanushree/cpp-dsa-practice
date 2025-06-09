@@ -31,6 +31,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── rightRotation.cpp
 │   ├── Kadane's_Algorithm.cpp
 │   ├── linearSearch.cpp
+│   ├── problem1.cpp
 │
 ├── pointers/
 │   ├── swap_two_numbers.cpp
