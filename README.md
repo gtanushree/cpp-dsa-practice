@@ -32,6 +32,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── Kadane's_Algorithm.cpp
 │   ├── linearSearch.cpp
 │   ├── problem1.cpp
+│   ├── problem2.cpp
 │
 ├── pointers/
 │   ├── swap_two_numbers.cpp
