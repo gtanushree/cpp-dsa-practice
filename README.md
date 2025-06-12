@@ -29,11 +29,12 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── matrix.cpp
 │   ├── leftRotation.cpp
 │   ├── rightRotation.cpp
-│   ├── Kadane's_Algorithm.cpp
+│   ├── Kadanes_Algorithm.cpp
 │   ├── linearSearch.cpp
 │   ├── problem1.cpp
 │   ├── problem2.cpp
 │   ├── Dutch_National_Flag_Problem.cpp
+│   ├── Longest_Consecutive_Subsequence.cpp
 │
 ├── pointers/
 │   ├── swap_two_numbers.cpp
