@@ -35,6 +35,8 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── problem2.cpp
 │   ├── Dutch_National_Flag_Problem.cpp
 │   ├── Longest_Consecutive_Subsequence.cpp
+│   ├── problem3.cpp
+│   ├── problem4.cpp
 │
 ├── pointers/
 │   ├── swap_two_numbers.cpp
