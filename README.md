@@ -73,6 +73,14 @@ This repository contains a categorized collection of concepts I have learnt and 
 ├── graphs/
 │   
 ├── sorting/
+│ 
+├── searching/
+│ 
+├── dynamic programming/ 
+│
+├── recursion/
+│
+├── backtracking/
 │   
 └── ...
 ```
