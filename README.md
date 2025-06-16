@@ -75,6 +75,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   
 ├── sorting/
 │   ├── bubble_sort.cpp
+│   ├── merge_sort.cpp
 │ 
 ├── searching/
 │ 
