@@ -79,6 +79,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── merge_sort(1).cpp
 │   ├── selection_sort.cpp
 │   ├── insertion_sort.cpp
+│   ├── counting_sort.cpp
 │ 
 ├── searching/
 │ 
