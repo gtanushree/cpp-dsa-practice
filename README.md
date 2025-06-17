@@ -15,7 +15,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 | ✅ Linked Lists  | 🟢 In Progress       | 7+  |
 | ✅ Trees         | 🟢 In Progress       | 10+  |
 | ✅ Graphs        | 🔵 Coming Soon       | -   |
-| ✅ Sorting & Searching | 🟢 In Progress   | 5+  |
+| ✅ Sorting & Searching | 🟢 In Progress   | 8+  |
 | ✅ Recursion & Backtracking | 🔵 Coming Soon | - |
 | ✅ Dynamic Programming | 🔵 Coming Soon | - |
 
