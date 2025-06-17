@@ -80,6 +80,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── selection_sort.cpp
 │   ├── insertion_sort.cpp
 │   ├── counting_sort.cpp
+│   ├── quick_sort.cpp
 │ 
 ├── searching/
 │ 
