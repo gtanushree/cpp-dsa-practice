@@ -71,6 +71,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── ZigZag_Traversal.cpp
 │   ├── Boundary_Traversal.cpp
 │   ├── Vertical_Order_Traversal.cpp
+│   ├── Trapping_Rain_Water_Problem.cpp
 │
 ├── graphs/
 │   
