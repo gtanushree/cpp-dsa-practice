@@ -27,6 +27,13 @@ This repository contains a categorized collection of concepts I have learnt and 
 │
 ├── miscellaneous/
 │   ├── matrix.cpp
+│
+├── pointers/
+│   ├── swap_two_numbers.cpp
+│   ├── program2.cpp
+│
+├── arrays/
+│   ├── Reverse_array.cpp
 │   ├── leftRotation.cpp
 │   ├── rightRotation.cpp
 │   ├── Kadanes_Algorithm.cpp
@@ -38,13 +45,9 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── problem3.cpp
 │   ├── problem4.cpp
 │   ├── problem5.cpp
-│
-├── pointers/
-│   ├── swap_two_numbers.cpp
-│   ├── program2.cpp
-│
-├── arrays/
-│   ├── Reverse_array.cpp
+│   ├── Trapping_Rain_Water_Problem.cpp
+│   ├── Subarray_Problem.cpp
+│   ├── Median_Problem.cpp
 │   
 ├── linked_lists/
 │   ├── Insertion_LL.cpp
@@ -71,9 +74,6 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── ZigZag_Traversal.cpp
 │   ├── Boundary_Traversal.cpp
 │   ├── Vertical_Order_Traversal.cpp
-│   ├── Trapping_Rain_Water_Problem.cpp
-│   ├── Subarray_Problem.cpp
-│   ├── Median_Problem.cpp
 │
 ├── graphs/
 │   
