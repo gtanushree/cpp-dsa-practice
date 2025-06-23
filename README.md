@@ -11,7 +11,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 |------------------|----------|-----------------|
 | ✅ Miscellaneous        | 🟢 In Progress       | 6+ |
 | ✅ Pointers        | 🟢 In Progress       | 6+ |
-| ✅ Arrays        | 🟢 In Progress       | 10+ |
+| ✅ Arrays        | 🟢 In Progress       | 15+ |
 | ✅ Linked Lists  | 🟢 In Progress       | 7+  |
 | ✅ Trees         | 🟢 In Progress       | 10+  |
 | ✅ Graphs        | 🔵 Coming Soon       | -   |
@@ -48,6 +48,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── Trapping_Rain_Water_Problem.cpp
 │   ├── Subarray_Problem.cpp
 │   ├── Median_Problem.cpp
+│   ├── Maximum_Product_Subarray.cpp
 │   
 ├── linked_lists/
 │   ├── Insertion_LL.cpp
