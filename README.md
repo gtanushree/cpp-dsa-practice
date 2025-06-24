@@ -95,6 +95,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 ├── recursion/
 │
 ├── backtracking/
+│   ├── rat_in_a_maze.cpp
 │   
 └── ...
 ```
