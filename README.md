@@ -96,6 +96,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │
 ├── backtracking/
 │   ├── rat_in_a_maze.cpp
+│   ├── N-Queens_Problem.cpp
 │   
 └── ...
 ```
