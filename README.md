@@ -98,6 +98,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── rat_in_a_maze.cpp
 │   ├── N-Queens_Problem.cpp
 │   ├── Power_Set.cpp
+│   ├── Permutations_of_a_String.cpp
 │   
 └── ...
 ```
