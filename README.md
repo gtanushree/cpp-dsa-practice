@@ -99,6 +99,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── N-Queens_Problem.cpp
 │   ├── Power_Set.cpp
 │   ├── Permutations_of_a_String.cpp
+│   ├── Combinations.cpp
 │   
 └── ...
 ```
