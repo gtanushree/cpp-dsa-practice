@@ -16,7 +16,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 | ✅ Trees         | 🟢 In Progress       | 10+  |
 | ✅ Graphs        | 🔵 Coming Soon       | -   |
 | ✅ Sorting & Searching | 🟢 In Progress   | 8+  |
-| ✅ Recursion & Backtracking | 🟢 In Progress | 3 |
+| ✅ Recursion & Backtracking | 🟢 In Progress | 6+ |
 | ✅ Dynamic Programming | 🔵 Coming Soon | - |
 
 ---
@@ -100,6 +100,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── Power_Set.cpp
 │   ├── Permutations_of_a_String.cpp
 │   ├── Combinations.cpp
+│   ├── Sudoku_Solver.cpp
 │   
 └── ...
 ```
