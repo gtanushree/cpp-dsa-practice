@@ -101,6 +101,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── Permutations_of_a_String.cpp
 │   ├── Combinations.cpp
 │   ├── Sudoku_Solver.cpp
+│   ├── Word_Search.cpp
 │   
 └── ...
 ```
