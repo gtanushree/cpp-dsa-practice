@@ -102,6 +102,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── Combinations.cpp
 │   ├── Sudoku_Solver.cpp
 │   ├── Word_Search.cpp
+│   ├── Palindrome_Partitioning.cpp
 │   
 └── ...
 ```
