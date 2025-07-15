@@ -16,7 +16,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 | ✅ Trees         | 🟢 In Progress       | 10+  |
 | ✅ Graphs        | 🔵 Coming Soon       | -   |
 | ✅ Sorting & Searching | 🟢 In Progress   | 8+  |
-| ✅ Recursion & Backtracking | 🟢 In Progress | 6+ |
+| ✅ Recursion & Backtracking | 🟢 In Progress | 12+ |
 | ✅ Dynamic Programming | 🔵 Coming Soon | - |
 
 ---
@@ -106,6 +106,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── Combination_Sum_I.cpp
 │   ├── Combination_Sum_II.cpp
 │   ├── Combination_Sum_III.cpp
+│   ├── Letter_Combinations.cpp
 │   
 └── ...
 ```
