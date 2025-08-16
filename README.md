@@ -11,7 +11,7 @@ This repository contains a categorized collection of concepts I have learnt and 
 |------------------|----------|-----------------|
 | ✅ Miscellaneous        | 🟢 In Progress       | 6+ |
 | ✅ Pointers        | 🟢 In Progress       | 6+ |
-| ✅ Arrays        | 🟢 In Progress       | 15+ |
+| ✅ Arrays        | 🟢 In Progress       | 20+ |
 | ✅ Linked Lists  | 🟢 In Progress       | 7+  |
 | ✅ Trees         | 🟢 In Progress       | 10+  |
 | ✅ Graphs        | 🔵 Coming Soon       | -   |
@@ -50,6 +50,9 @@ This repository contains a categorized collection of concepts I have learnt and 
 │   ├── Median_Problem.cpp
 │   ├── Maximum_Product_Subarray.cpp
 │   ├── Two_Sum.cpp
+│   ├── 4Sum.cpp
+│   ├── largest_subarray.cpp
+│   ├── longest_consecutive_sequence.cpp
 │   
 ├── linked_lists/
 │   ├── Insertion_LL.cpp
